@@ -1,0 +1,49 @@
+Part 26:
+
+F1 [2023/05/12 19:11:50 GMT+0000]:	So, 407 is, ENF. What does that, so what is that, right?
+
+F2:	But like, they all have to be shifted by the same to actually work out any of them, don't they?
+
+F1:	Or, are they 407407?
+
+F2:	Maybe.
+
+F1:	Can I see the, this one? Right, the second one is, oh my god, it's super long.
+
+F2:	Uh-huh.
+
+F1:	ENF. So…I don't know. No, that's, wait, plus, minus…no, I can't remember what I'm actually doing. Okay, E minus four is, one, two, three, four. E plus four is, one, two, three, four, okay. F, one, two, three, four, five, six seven, is Y. F plus seven is, one, two, three, four, five, six, seven, erm…so, possibly, I need four, one, two…wait, no, one, two, three, four, T, I, 7…one, two, three…no…one, two, three, four, five, six, seven. Ah-ha.
+
+F2:	Have you got it?
+
+F1:	I might. So, four…
+
+M1:	So it's repeated, 407, 407?
+
+F1:	…one, two, three, four, yeah, I've got it. So, any time…this is going to take a while…but it's working. That's two real words.
+
+F2:	We're getting there.
+
+F1:	We're going to get there. Right, so we just need to write out this entire thing.
+
+M1:	You have it here.
+
+F1:	Okay. So, we need to go…
+
+M1:	Any time…
+
+F1:	…yeah, any time. So, I think we need to go over this, so 407, 407, 407, over and over.
+
+M1:	Yes, 407, 407, 407, 407, 407…
+
+F1:	So, P, W, H, P, X…okay, okay. Okay.
+
+M1:	I thought you were decoding, like, real time.
+
+F1:	Oh, yeah, yeah. So, this is minus, so, one, two, three, four, E has become A. So, A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z. And then, seven has to become Y, or F becomes M. F becomes, one, two, three, four, five, six, seven…is that right?
+
+F2:	Is it not that way?
+
+F1:	I did it the wrong way round. Yeah.
+
+F2 [00:01:40]:	Yeah.
