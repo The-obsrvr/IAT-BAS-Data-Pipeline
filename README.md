@@ -1,2 +1,2 @@
-# IAT-BAS-Data-pipeline
+# IAT-BAS-Data-Pipeline
 This repository contains the end-to-end data pipeline for processing IAT corpora (in AIF format) and transforming to bipolar argument structures.
