@@ -8,7 +8,7 @@ The primary contributor and point of contact for this repository is Siddharth Bh
 
 ## Overview
 
-Tthis repository contains documentation on end-to-end data processing pipeline for systematic adaptation of IAT-based (Inference Anchoring Theory) dialogical corpora into simplified bipolar argument structures (BAS), facilitating consistent benchmarking and computational modeling;
+The project involves developing an end-to-end data processing pipeline for systematic adaptation of IAT-based (Inference Anchoring Theory) dialogical corpora into simplified bipolar argument structures (BAS), facilitating consistent benchmarking and computational modeling;
 
 ###### add Example
 
@@ -22,7 +22,7 @@ For detailed documentation on how the IAT annotations are processed into Bipolar
 
 ### Collection 
 
-### Restructuring of IAT to BAS
+### Restructuring IAT to BAS
 
 ### Filtering 
 
