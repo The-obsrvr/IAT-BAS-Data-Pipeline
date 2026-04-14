@@ -41,9 +41,13 @@ The command is run in the docker environment as follows:
 $ python src/dataprocessing.py 
 ```
 
+Currently in jupyter notebook in the src folder.
+
 ---
 
 ### Exploratory Data Analysis: A Brief Report
+
+Currently in jupyter notebook format in the src folder.
 
 ###### Add stats as image
 
