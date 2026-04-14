@@ -8,7 +8,7 @@ The primary contributor and point of contact for this repository is Siddharth Bh
 
 ## Overview
 
-The project involves developing an end-to-end data processing pipeline for systematic adaptation of IAT-based (Inference Anchoring Theory) dialogical corpora into simplified bipolar argument structures (BAS), facilitating consistent benchmarking and computational modeling;
+The project involves developing an end-to-end data processing pipeline for systematic adaptation of IAT-based (Inference Anchoring Theory) dialogical corpora into simplified bipolar argument structures (BAS), facilitating consistent benchmarking and computational modeling for Argument Structure Prediction (see [ArgStrPrediction](https://github.com/The-obsrvr/ArgStrPrediction) for more details.)
 
 ###### add Example
 
