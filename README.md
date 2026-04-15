@@ -1,4 +1,4 @@
-# IAT-BAS-Data-Pipeline
+# Data Pipeline for Converting Inference Anchoring Theory Annotations into Bipolar Argument Structures
 
 This repository contains documentation on a project that forms part of a broader PhD research effort titled "Identifying the Stance of Argumentative Opinions in Political Discourse", conducted under the HYBRIDS Project within the Horizon Europe framework.
 
@@ -27,6 +27,8 @@ For detailed documentation on how the IAT annotations are processed into Bipolar
 ### Filtering 
 
 ### Cleaning
+
+### Final Data Format
 
 ### Sampling for Fine-tuning and In-context Learning
 
