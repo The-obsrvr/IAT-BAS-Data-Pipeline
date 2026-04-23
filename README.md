@@ -40,7 +40,7 @@ The code is extendable to also include the "rephrasing" nodes (MA), though they 
 
 The command is run in the docker environment as follows:
 ```bash
-$ python src/dataprocessing.py 
+$ python src/data_preparation.py 
 ```
 
 ---
