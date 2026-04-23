@@ -16,21 +16,21 @@ The project involves developing an end-to-end data processing pipeline for syste
 
 ## Data Pipeline
 
-We use AIFdb, a large repository of dialogical argument mining corpora annotated under Inference Anchoring Theory (IAT) by different research teams, and represented in the Argument Interchange Format  (AIF).
+We use [AIFdb](https://corpora.aifdb.org/), a large repository of dialogical argument mining corpora annotated under Inference Anchoring Theory (IAT) by different research teams, and represented in the Argument Interchange Format  (AIF).
 
 For detailed documentation on how the IAT annotations are processed into Bipolar Argument Structures refer to our Data Pipeline repository here: [IAT-BAS-Data-Pipeline](https://github.com/The-obsrvr/IAT-BAS-Data-Pipeline). 
 
 ### Collection 
 
+The data is sourced from the AIFdb.
+
 ### Restructuring IAT to BAS
 
-### Filtering 
+Argument units are defined as the direct utterances made by a speaker that demonstrate a dialogical speech act defined under the IAT framework. These are marked as "L" (locution nodes) in the raw annotations. Supporting relations are defined between two inference nodes (I) that are directionally-related through an "inferential" (RA) node. Similarly, attacking relations are defined between two inference nodes (I) that are directionally-related through an "conflicting" (CA) nodes.
 
-### Cleaning
+We only retain argument units that participate in some supporting or attacking relation (as a source or as a target). The list of the argument units and relations (support and attack) forms the bipolar argument structures. 
 
-### Final Data Format
-
-### Sampling for Fine-tuning and In-context Learning
+The code is extendable to also include the "rephrasing" nodes (MA), though they have not been considered within the scope of this work.
 
 ---
 
@@ -42,8 +42,6 @@ The command is run in the docker environment as follows:
 ```bash
 $ python src/dataprocessing.py 
 ```
-
-Currently in jupyter notebook in the src folder.
 
 ---
 
